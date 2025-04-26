@@ -1,5 +1,4 @@
 # Treasure Hunt Game – Project Reflection
-[FinalTreasureHuntGame.md](https://github.com/user-attachments/files/19924763/FinalTreasureHuntGame.md)
 ![output_26_1](https://github.com/user-attachments/assets/fc66cbc5-e0f3-40a9-918a-3f2532c9c143)
 ![output_24_1](https://github.com/user-attachments/assets/b4ae7a64-0afb-45ea-8518-ff2bd88e3d26)
 ![output_20_1](https://github.com/user-attachments/assets/90368fe4-215a-49a4-9d0c-cadb15c1aaf1)
